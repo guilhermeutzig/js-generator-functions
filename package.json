@@ -1,0 +1,23 @@
+{
+  "name": "js-generator-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generators.js",
+  "scripts": {
+    "dev": "serve -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeutzig/js-generator-functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeutzig/js-generator-functions/issues"
+  },
+  "homepage": "https://github.com/guilhermeutzig/js-generator-functions#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
